@@ -1,0 +1,1 @@
+Basic terraform code to create Windows VM
