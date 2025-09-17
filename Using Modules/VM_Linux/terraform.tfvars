@@ -1,0 +1,6 @@
+resource_group_name     = "resgrp"
+virtual_network_name    = "myVirtualNetwork"
+subnet_name             = "mySubnet"
+public_ip_name          = "myPublicIP"
+virtual_machine_name    = "myLinuxVM"
+resource_group_location = "Central India"
