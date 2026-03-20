@@ -1,0 +1,1 @@
+Create 3 Resource Groups in different regions having  1 storage account each with container and upload files in them.
